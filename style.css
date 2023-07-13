@@ -21,7 +21,7 @@ body{
     margin: 0 auto;
 }
 .main{
-    background: linear-gradient(180deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.3)), url(images/main-bcg.jpeg) no-repeat;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.3)), url(main-bcg.jpeg) no-repeat;
     background-position: center;
     background-size: cover;
 }
